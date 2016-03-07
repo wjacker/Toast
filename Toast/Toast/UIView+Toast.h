@@ -51,6 +51,8 @@ extern const NSString * CSToastPositionBottom;
  */
 - (void)makeToast:(NSString *)message;
 
+- (void)makeToast:(NSString *)message position:(id)position;
+
 /**
  Creates and presents a new toast view with a message. Duration and position
  can be set explicitly. Styled using the shared style.
