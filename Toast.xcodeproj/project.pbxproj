@@ -11,7 +11,7 @@
 		04CEFA0F1C8D32B7001E9DF2 /* Toast.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04CEFA081C8D32B7001E9DF2 /* Toast.framework */; };
 		04CEFA101C8D32B7001E9DF2 /* Toast.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 04CEFA081C8D32B7001E9DF2 /* Toast.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		04CEFA161C8D32C5001E9DF2 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = 1536A60516B0E0CF0021C622 /* UIView+Toast.m */; };
-		04CEFA1B1C8D49C8001E9DF2 /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 1536A60416B0E0CF0021C622 /* UIView+Toast.h */; };
+		04CEFA1B1C8D49C8001E9DF2 /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 1536A60416B0E0CF0021C622 /* UIView+Toast.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		151FC0D713D34B7A007DC282 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 151FC0D613D34B7A007DC282 /* UIKit.framework */; };
 		151FC0D913D34B7A007DC282 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 151FC0D813D34B7A007DC282 /* Foundation.framework */; };
 		151FC0DB13D34B7A007DC282 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 151FC0DA13D34B7A007DC282 /* CoreGraphics.framework */; };
